@@ -1,7 +1,7 @@
 # lista-exercicio-5-funcoes-java
 # lista-exercicio-3-java 
 
-lista de exercício três de java 
+lista de exercício cincode java 
 
 Meu perfil no [linkedin](https://www.linkedin.com/in/lucas-alves-259320274/)
 
